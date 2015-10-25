@@ -73,12 +73,65 @@ To fork a repo, navigate to the repo you want to fork and (shocker) click the "F
 To clone that baby, you've got to make sure you already have GitHub linked to your local machine.  As long as that's set up, you can navigate to the directory where you want the clone to live on your computer.  Then type "git clone [url of forked repo]".  You pick up the URL from the GitHub page of the forked repo--you'll find a little clipboard that says "HTTPS clone URL" and you can copy it from here and paste it directly into your command line.
 
 
-
 Why fork a repository?  Well, if I want to make changes to a repository without affecting the original one, I'll need a fork!  This way, I have the original repository at my fingertips, but I can make edits that belong to me, without changing the repo I forked from.  In the example of being a student of DBC, I can fork the homework assignments for each week of Phase 0, make changes to the files by adding my answers, and then push them up to my forked copy of the week's homework.  Then, any of YOU can pull down my changes, check out my answers and give me feedback without the original DBC repo being altered.
-
 
 
 I didn't have any struggles setting up git and GitHub because I already set them up last year.  I do remember having a few hiccups setting them up but unfortunately cannot recall what they were.  I'm using the Shortcut Foo git and GitHub dojos to help me memorize the commands associated with these programs and they're already helping me feel more confident.
 
+
+
+# BONUS CHALLENGE MATERIAL:
+
+## Web Concepts:
+
+###Browser:
+
+A browser is software that allows you to search the web, retrieve and look at information, as well as transmit information.  Firefox and Chrome are examples of web browsers.
+
+###DNS:
+
+A domain name server keeps record of the domain name associated with a given IP address (like a phone book keeps track of a name associated with a phone number.)  Basically, the DNS translates a website's address from human language, to machine language, and then back again to something we can read.
+
+###Domain:
+
+This is the human-friendly name of your website.  The .edu or .gov or .com is one part of the domain name, and what goes between the www. and the .com (or .edu or whatever) is your second-level domain.
+
+###Internet:
+
+The internet is a distributed network of computers and servers, connected by buried cables, phone lines, and satellite transimssions (cell phones).
+
+###IP Address:
+
+This is the way computers find each other--each computer using the Internet to transmit information has a string of numbers to identify it (sometimes a company or a house can have one IP address to identify all the machines used there but in most cases each machine has its own.)
+
+###Web App:
+
+A web application is a dynamic site that changes according to user-produced content (like Facebook or Twitter).
+
+###Website:
+
+A website is a static page on the web that provides information (like the homepage of the coffee shop I'm sitting in right now!)
+
+### World Wide Web:
+
+This is software that sits on top of the internet and allows us to interface with the internet in a user-friendly way.
+
+###How the internet displays content:
+
+Seems like I push new material up to my website, the content is updated on the server where my website is hosted, and so the next time I refresh the website, I can see the changes reflected before me.  I wish I could explain it more technically than that--these terms are swimming in my head right now but I know they'll solidify!
+
+###Final reflections:
+
+####New things learned:
+
+I learned that the internet is a wire and that the web is a software application that sits on top of it.
+
+####When I first saw my website I felt:
+
+Total relief that it worked!
+
+####Aha moments?
+
+I'm not sure I'm there yet, but this is really interesting and helping to demystify the "magic" of the internet.
 
 
