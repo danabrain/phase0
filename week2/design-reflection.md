@@ -1,4 +1,4 @@
-#Here is my sitemap: ![My sitemap](/imgs/sitemap.jpg)
+#Here is my sitemap: ![My sitemap](imgs/sitemap.jpg)
 
 ##What are the 6 Phases of Web Design?
 
