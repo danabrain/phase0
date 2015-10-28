@@ -1,13 +1,20 @@
+#Here is my sitemap: ![My sitemap](/imgs/sitemap.jpg)
+
 ##What are the 6 Phases of Web Design?
 
-*The six phases of web design are:
+The six phases of web design are:
 
-*1. Information Gethering (What is the purpose of the site, what goals should it accomplish, who is your target audience, and what kind of information will this site relay to them?)
-*2. Planning (Create a sitemap to organize your content.)
-*3. Design (Consider who will be using this site when you design it--what might they be feeling, wanting, searching for?  Design with the user in mind.)
-*4. Development (Write the code, and explore the first iteration of the site.)
-*5. Testing/Delivery (Revise the site as needed from both a design and a code standpoint.)
-*6. Maintenance (Keep that puppy looking good and up to date!)
+1. Information Gethering (What is the purpose of the site, what goals should it accomplish, who is your target audience, and what kind of information will this site relay to them?)
+
+2. Planning (Create a sitemap to organize your content.)
+
+3. Design (Consider who will be using this site when you design it--what might they be feeling, wanting, searching for?  Design with the user in mind.)
+
+4. Development (Write the code, and explore the first iteration of the site.)
+
+5. Testing/Delivery (Revise the site as needed from both a design and a code standpoint.)
+
+6. Maintenance (Keep that puppy looking good and up to date!)
 
 ##What is your site's primary goal or purpose? What kind of content will your site feature?
 
@@ -32,5 +39,3 @@ User experience design is web design with the user in mind (that sounds redundan
 ##Which parts of the challenge did you find tedious?
 
 None really, I liked them all!  I like design--color wheels, layouts, etc.  I just wish I had more time this week to explore more of the additional resources mentioned in the recorded lecture.  But, I will when I can!
-
-#Here is my sitemap: ![My example](/imgs/sitemap.jpg "My Sitemap")
