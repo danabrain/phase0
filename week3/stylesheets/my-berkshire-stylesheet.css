@@ -1,0 +1,114 @@
+body {
+    color: #000080;
+    background-color: #ffffff;
+}
+
+.horizontal-line {
+   display: block;
+   position: relative;
+   padding: 0;
+   margin: 8px auto;
+   height: 0;
+   width: 100%;
+   max-height: 0;
+   font-size: 1px;
+   line-height: 0;
+   clear: both;
+   border: none;
+   border-top: 1px solid #aaaaaa;
+   border-bottom: 1px solid #ffffff;
+}
+
+a:link {
+    color: #800080;
+}
+
+a:visited {
+    color: #ff0000;
+}
+
+.table{
+    display:inline-block;
+    width:50%;
+    margin: 0 0 0 100px;
+    line-height: 60%;
+ }
+
+ .table li {
+  margin-top: 40px;
+ }
+
+ .table p {
+  font-size: 70%;
+  margin-top: 5px;
+ }
+
+ .column-one {
+  display: inline-block;
+  margin-bottom: 50px;
+  margin-top: -20px;
+ }
+
+ .column-two {
+  display: inline-block;
+  position: absolute;
+  margin-top: -20px;
+
+ }
+
+ .title {
+  font-weight: bold;
+  text-align: center;
+ }
+
+ h4 {
+  font-size: 95%;
+  font-weight: bold;
+  margin-top: 0px;
+ }
+
+ .title p {
+  line-height: 5%;
+  font-size: 14px;
+  margin-bottom: 0px;
+ }
+
+ .inc {
+  font-size: 80%;
+ }
+
+ .capital {
+  font-size: 30px;
+ }
+
+ .title h1 {
+  font-size: 110%;
+ }
+
+.geico-ad {
+  text-align: center;
+  font-size: 70%;
+  line-height: 40%;
+  margin: 15px auto;
+
+}
+
+.geico-ad img {
+  margin: 0 auto;
+  line-height: 60%;
+
+}
+
+.comments-concerns {
+  font-size: 80%;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.copyright-info {
+  font-size: 70%;
+}
+
+.copyright-name {
+  font-weight: bold;
+}

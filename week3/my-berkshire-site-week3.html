@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<html lang = "en">
+<head>
+  <title>Berkshire Mockup</title>
+  <meta charset = "UTF-8" />
+  <link rel="stylesheet" type="text/css" href="stylesheets/my-berkshire-stylesheet.css">
+</head>
+
+<body>
+
+<div class="title">
+  <h1><span class="capital">B</span>ERKSHIRE <span class="capital">H</span>ATHAWAY <span class="inc">INC.</span><h1>
+  <p>3555 Farman Street</p>
+  <p>Omaha, NE 68131</p>
+  <h4>Official Home Page</h4>
+</div>
+
+<div class="horizontal-line">
+</div>
+
+<div class="table">
+  <ul class="column-one">
+      <li><a href="#">A Message From Warren E. Buffet</a></li>
+      <li><a href = "#">Annual & Interim Reports</a><p>Updated August 7, 2015</p></li>
+      <li><a href="#">Special Letters From Warren & Charlie RE: Past, Present and Future</a></li>
+      <li><a href="#">Link to SEC Filings</a></li>
+      <li><a href="#">Links to Berkshire Subsidiary Companies</a></li>
+      <li><a href="#">Corporate Governance</a></li>
+      <li><a href="#">Owner's Manual</a></li>
+      <li><a href="#">Letters from Warren E. Buffett Regarding Pledges to Make Gifts of Berkshire Stock</a></li>
+  </ul>
+
+  <ul class="column-two">
+      <li><a href="#">News Releases</a><p> Updated August 10, 2015</p></li>
+      <li><a href="#">Warren Buffett's Letters to Berkshire Shareholders</a><p> Updated February 28, 2015</p></li>
+      <li><a href="#">Charlie Munger's Letters to Wesco Shareholders</a></li>
+      <li><a href="#">Annual Meeting Information</a></li>
+      <li><a href="#">Celebrating 50 Years of a Profitable Partnership</a><p>(A commemorative book first sold at the 2015 Annual Meeting and now for sale on eBay.)</p> </li>
+      <li><a href="#">Comparative Rights and Relative Prices of Class A and B Stock</a></li>
+      <li><a href="#">Berkshire Activewear</a></li>
+    </ul>
+  </div>
+
+  <div class="horizontal-line">
+</div>
+
+  <div class="geico-ad">
+  <a href="http://www.geico.com"><img src="../week2/imgs/geicoimg.gif" alt="Geico Logo"></a> <p>FOR A FREE CAR INSURANCE QUOTE THAT COULD SAVE YOU SUBSTANTIAL MONEY</p>
+  <p><a href="#">WWW.GEICO.COM</a> OR CALL 1-888-395-6349, 24 HOURS A DAY</p>
+  </div>
+
+  <div class="horizontal-line">
+</div>
+
+<footer><div class="comments-concerns">
+  <p>If you have any comments about our WEB page, you can either write us at the address shown above or e-mail us at <a href="#">berkshire@bekshirehathaway.com</a>.  However, due to the limited number of personnel in our corporate office, we are unable to provide a direct response.</p>
+</div>
+
+  <div class="horizontal-line">
+</div>
+
+<div class="legal">
+    <p><a href="#">Legal Disclaimer</a></p>
+</div>
+
+<div class="copyright-info">
+  <p>Copyright &#169; 1978-2015 <span class="copyright-name">Berkshire Hathaway Inc.</span></p>
+</div></footer>
+
+</body>
+</html>
+
+<!--
+
+#What is important to know when linking an external file (like a stylesheet) to an HTML file?
+
+You need to know the structure of your file tree and make sure the two documents are speaking to each other!  You also need to know the syntax to add to the header of the HTML document.
+
+#What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+
+Harder than I thought to get the two columns!  I eventually used absolute positioning and inline-block display to get the two divs containing unordered lists to display side by side.  I tried (and failed) at LOTS of things before that!  I also had to cheat and find a way to make a horizontal line with CSS because for some reason, my bottom border wasn't working (although, now that I think about it, it's because I used the margin-bottom property instead of the border-bottom property.  Duh, in retrospect.)
+
+#What CSS did you use to modify the element style (like size, color, etc.)
+
+Oh all kinds of things--font-weight and size, I used line height and text-align.  I changed the color of the visited links, and used spans to make only the "B" and "H" at the top capital letters.
+
+#Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+
+Yep.  I used classes, mostly, to describe the obvious sections of the webpage.
+
+#When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+
+Oh, I'm sure their code is better!  However, I didn't use a table and they did.  I was excited when I figured out how to do it without the table.  Thanks, Chrome DevTools!!
+
+ -->
