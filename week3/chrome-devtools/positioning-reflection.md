@@ -28,12 +28,12 @@ It was fun!  I like being able to see the changes we made right away, and it was
 
 #Here are my images:
 
-![3.4.1](imgs/3.4.1.jpg)
-![3.4.2](imgs/3.4.2.jpg)
-![3.4.3](imgs/3.4.3.jpg)
-![3.4.4](imgs/3.4.4.jpg)
-![3.4.5](imgs/3.4.5.jpg)
-![3.4.6](imgs/3.4.6.jpg)
-![3.4.7](imgs/3.4.7.jpg)
-![3.4.8](imgs/3.4.8.jpg)
-![3.4.9](imgs/3.4.9.jpg)
+![3.4.1](imgs/341.jpg)
+![3.4.2](imgs/342.jpg)
+![3.4.3](imgs/343.jpg)
+![3.4.4](imgs/344.jpg)
+![3.4.5](imgs/345.jpg)
+![3.4.6](imgs/346.jpg)
+![3.4.7](imgs/347.jpg)
+![3.4.8](imgs/348.jpg)
+![3.4.9](imgs/349.jpg)
