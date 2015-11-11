@@ -19,6 +19,7 @@ https://github.com/danabrain/phase-0/blob/master/week-4/address/my_solution.rb
 
 https://github.com/danabrain/phase-0/blob/master/week-4/math/my_solution.rb
 
+<<<<<<< HEAD
 #How do you define a local variable?
 
 # You set the variable name equal to a value.
@@ -45,5 +46,7 @@ https://github.com/danabrain/phase-0/blob/master/week-4/math/my_solution.rb
 
 
 
+=======
+>>>>>>> f525758d73cab0382ed3a75a678536ad18dca132
 
 
