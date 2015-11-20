@@ -42,5 +42,19 @@ def mode(array)
   array.keep_if {|item| array.count(item)== max_frequency}
 end
 
+# Which data structure did you and your pair decide to implement and why?
 
+# It took us a long time and several tries at different things to land on using an array.  We started with an array, moved to a hash, and came back to array after researching more about Enumerable and how we can use the methods in this class to help us iterate through a data collection.
+
+# Were you more successful breaking this problem down into implementable pseudocode than the last with a pair?
+
+# I had a great time psuedocoding with my last pair, but I thought we did a good job this time too.  Our solution changed so much that our original psuedocode was probably too specific.  Next time, it will be more general and less process specific.
+
+# What issues/successes did you run into when translating your pseudocode to code?
+
+# Um, tons.  We couldn't figure out how to move through the data collections the way we wanted, we were kind of cobbling together complex solutions filled with duct tape and hope...but it was honestly absorbing and fun and I really enjoyed the challenge!
+
+# What methods did you use to iterate through the content? Did you find any good ones when you were refactoring? Were they difficult to implement?
+
+# We used each and keep_if, but we had the chance to play around with include?, has_value, and several other methods that we ultimately didn't use.
 
