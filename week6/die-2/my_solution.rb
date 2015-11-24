@@ -48,7 +48,7 @@ p "Your roll is: #{die.roll}"
 
 # Refactored Solution
 
-# I'm not sure I can refactor this more--the code is already pretty clean!
+# I'm not sure I can refactor this more--the code is already pretty clean!  I did add some driver code at the bottom to make my solution clear.
 
 
 # Reflection
