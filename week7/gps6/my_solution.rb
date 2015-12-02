@@ -123,3 +123,23 @@ run_report(STATE_DATA)
 
 #=======================================================================
 # Reflection Section
+
+# ------What are the differences between the two different hash syntaxes shown in the state_data file?
+
+# One is using strings as keys, and the other is using symbols as keys.
+
+# ------What does require_relative do? How is it different from require?
+
+# require_relative will connect the file you're working on to a file in another directory, relative to where this one is.  It's under the umbrella of require, which can connect your current program to another file in the same directory.
+
+# ------What are some ways to iterate through a hash?
+
+# Each, each.key, each.value.
+
+# ------When refactoring virus_effects, what stood out to you about the variables, if anything?
+
+# That they repeated themselves, and that they weren't really necessary since they were instance variables and already available to the method.  We didn't need to pass them in as arguments.
+
+# ------What concept did you most solidify in this challenge?
+
+# I felt strong about accessing information from nested data structures.
