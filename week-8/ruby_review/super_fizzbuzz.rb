@@ -16,11 +16,15 @@ def super_fizzbuzz(array)
 
   array.each_with_index do |item, x|
     if array[x]== 3
-      array[x] == "fizz"
+      array[x] = "fizz"
+    elsif array[x] == 5
+      array[x] = "buzz"
+    elsif array[x] == 15
+      array[x] = "fizzbuzz"
     end
   end
 
-
+  p array
 end
 
 
@@ -28,13 +32,12 @@ array1 = [1, 2, 3]
 array2 = [1, 2, 5]
 array3 = [1, 2, 15]
 array4 = [3, 5, 15, 2]
-p super_fizzbuzz(array1)
-p super_fizzbuzz(array2)
+super_fizzbuzz(array1)
+super_fizzbuzz(array2)
+super_fizzbuzz(array3)
+super_fizzbuzz(array4)
 
 # Refactored Solution
-
-
-
 
 
 

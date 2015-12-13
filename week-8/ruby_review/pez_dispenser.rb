@@ -133,4 +133,16 @@ puts "Now you have #{super_mario.pez_count} pez!"
 
 
 
-# Reflectio
+# Reflection
+
+What concepts did you review or learn in this challenge?
+
+I reviewed class methods, instance variables, and some array methods.
+
+What is still confusing to you about Ruby?
+
+I am feeling pretty good about Ruby, I think more practice really helps solidify concepts.
+
+What are you going to study to get more prepared for Phase 1?
+
+I'd like to finish these exercises.

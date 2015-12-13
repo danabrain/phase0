@@ -118,3 +118,15 @@ p dr_evils_cipher("alc@qeoi*e$xvmppmsr^alir#ai*gsyph%qeoi...#fmppmsrw?")
 
 # Reflection
 # Keep your reflection limited to 10-15 minutes!
+
+What concepts did you review or learn in this challenge?
+
+I reviewed creating arrays of strings using the %w methods, I reviewed some methods like using .include? on a range, and looping through arrays.
+
+What is still confusing to you about Ruby?
+
+Ruby feels like an old friend after Javascript.  I'm excited to do increasingly complex challenges in Ruby.
+
+What are you going to study to get more prepared for Phase 1?
+
+I'd like to complete all these review exercises.
