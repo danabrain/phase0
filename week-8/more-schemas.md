@@ -1,10 +1,10 @@
-![ONE-TO-ONE](/imgs/onetoone.jpg)
+![ONE TO ONE](imgs/onetoone.jpg)
 
 #One-to-one Relationship
 
 This is a one-to-one relationship because a woman will only have one husband (hopefully), which is linked to the men table through husband_id.  A woman could just as easily not have an husband, in which case this field would be null.
 
-![MANY-TO-MANY](/imgs/manytomany.jpg)
+![MANY TO MANY](imgs/manytomany.jpg)
 
 #What is a one-to-one database?
 
