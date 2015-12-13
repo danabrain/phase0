@@ -25,6 +25,6 @@ A primary key is a unique (and often meaningless) identifier of a piece of data.
 
 You use the SELECT keyword, and then add whatever filters you'd like.  You can use * to select all the data, or create a "where" filter to put conditions in.  There are also selectors that will look for patterns in the name of the columns and return matches (kind of like regular expressions).
 
-![MY SCHEMA][schema.jpg]
+![MY SCHEMA](schema.jpg)
 
 
