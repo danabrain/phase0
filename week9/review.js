@@ -7,26 +7,18 @@
 // 5.  Pretty print the list.
 
 
-function
 var groceryList = {};
 
-// function addItem (list, item, quantity) {
-//   list.item = quantity;
-// }
-
-groceryList.apples = 2;
-groceryList.bread = 1;
-groceryList.milk = 3;
-groceryList.lettuce = 5;
-groceryList.cupcakes = 10;
-
-function deleteItem(list, item) {
-  delete list.item;
-  console.log(item + ' has been deleted from ' + list.name);
+function addItem(item, qty) {
+  groceryList[item] = qty;
 }
 
-function updateQuantity(list, item, quantity) {
-  list.item = quantity;
+function removeItem(item) {
+  delete groceryList[item];
+}
+
+function updateQuantity(item, qty) {
+  groceryList[item] = qty;
 }
 
 function printList(list) {
@@ -35,12 +27,11 @@ function printList(list) {
   }
 }
 
-// addItem(groceryList, apples, 5);
-// addItem(groceryList, milk, 1);
-// addItem(groceryList, bread, 2);
-// addItem(groceryList, cheese, 4);
-// addItem(groceryList, lettuce, 3);
+addItem('apples', 5);
+addItem('bread', 1);
+addItem('veggies', 20);
+addItem('cupcakes', 4);
+removeItem('apples');
+updateQuantity('bread', 100);
+printList(groceryList);
 
-deleteItem(groceryList, 'apples');
-console.log(updateQuantity(groceryList, 'bread', 100));
-console.log(printList(groceryList));
